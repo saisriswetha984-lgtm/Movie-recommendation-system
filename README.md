@@ -46,6 +46,7 @@ A machine learning-based web application that recommends movies similar to your 
 movie-recommender-system/
 │
 ├── app.py
+├──.gitattributes
 ├── screenshot.png
 ├── movie_list.pkl
 ├── similarity.pkl
