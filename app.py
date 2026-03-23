@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+HEAD
 
 import pickle
 import streamlit as st
@@ -85,7 +85,6 @@ if st.button('Show Recommendation'):
             if poster is None or not str(poster).startswith("http"):
                 poster = "https://via.placeholder.com/300x450.png?text=No+Poster"
 
-=======
 
 import pickle
 import streamlit as st
@@ -172,5 +171,5 @@ if st.button('Show Recommendation'):
             if poster is None or not str(poster).startswith("http"):
                 poster = "https://via.placeholder.com/300x450.png?text=No+Poster"
 
->>>>>>> 87a6fe2329807ccd3449482c4d7a5fa4e0d8c24e
+ 87a6fe2329807ccd3449482c4d7a5fa4e0d8c24e
             st.image(poster, width='stretch')
