@@ -6,7 +6,7 @@ A machine learning-based web application that recommends movies similar to your 
 
 ## 🚀 Live Demo
 
-*(Add your deployed link here after deployment)*
+https://movie-recommendation-system-lsfpeqsfom6wltnxmzut6q.streamlit.app/
 
 ---
 
