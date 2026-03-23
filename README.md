@@ -85,7 +85,7 @@ streamlit run app.py
 ## 🔑 API Setup
 
 * This project uses TMDB API for fetching movie posters
-* Replace `YOUR_API_KEY` in `app.py` with your own API key
+* Replace `e83c81f3f7b32d2a67e9d6a1fc412825` in `app.py` with your own API key
 
 ---
 
